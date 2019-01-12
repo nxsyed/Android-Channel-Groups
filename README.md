@@ -1,6 +1,6 @@
 # Channel Groups Android
 
-This is the example of how see Presence on Android using and PubNub
+This is the example of how Publish and Subscribe to multiple channels on Android using and PubNub
 
 <a href="https://dashboard.pubnub.com/signup?devrel_gh=PubSub-Android">
     <img alt="PubNub Signup" src="https://i.imgur.com/og5DDjf.png" width=260 height=97/>
